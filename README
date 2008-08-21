@@ -1,0 +1,9 @@
+My Plugins for rbot - a Ruby IRC bot
+
+http://www.ruby-rbot.org/
+
+* Dictionary - define words using Yahoo!
+* Forecast - get a two day forecast via NOAA
+* Realm - World of Warcraft realm status
+* URLs - a powerful, database-backed URL cataloging and reporting plugin
+* Weather - a replacement for the built-in weather plugin
