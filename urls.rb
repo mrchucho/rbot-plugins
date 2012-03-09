@@ -11,8 +11,8 @@ require 'date'
 class FakeDB
   attr_accessor :results_as_hash
   def table_info(table); return {} ; end
-  def execute_batch(sql); end;
-  def execute(sql); end;
+  def execute_batch(*sql); end;
+  def execute(*sql); end;
 end
 
 =begin
